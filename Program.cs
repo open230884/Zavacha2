@@ -4,7 +4,7 @@ int n = int.Parse(Console.ReadLine());
 
 if (n<1 || n>7)
 {
-Console.WriteLine("Ввведено неверное число");
+Console.WriteLine("Ввведено неверное число, поправтесь пожалуйста");
 
 }
 else
